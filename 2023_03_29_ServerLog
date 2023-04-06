@@ -1,0 +1,598 @@
+2023-03-29 20:39:36.884279 [info]: timer tick
+2023-03-29 20:39:41.884738 [info]: timer tick
+2023-03-29 20:39:46.886026 [info]: timer tick
+2023-03-29 20:39:51.886748 [info]: timer tick
+2023-03-29 20:39:56.887057 [info]: timer tick
+2023-03-29 20:40:01.887916 [info]: timer tick
+2023-03-29 20:40:06.889004 [info]: timer tick
+2023-03-29 20:40:11.889721 [info]: timer tick
+2023-03-29 20:40:16.890729 [info]: timer tick
+2023-03-29 20:40:21.890842 [info]: timer tick
+2023-03-29 20:40:26.891916 [info]: timer tick
+2023-03-29 20:40:31.892342 [info]: timer tick
+2023-03-29 20:40:36.893137 [info]: timer tick
+2023-03-29 20:40:41.893579 [info]: timer tick
+2023-03-29 20:40:46.894542 [info]: timer tick
+2023-03-29 20:40:51.894809 [info]: timer tick
+2023-03-29 20:40:56.895031 [info]: timer tick
+2023-03-29 20:41:01.895940 [info]: timer tick
+2023-03-29 20:41:06.896414 [info]: timer tick
+2023-03-29 20:41:11.896814 [info]: timer tick
+2023-03-29 20:41:16.897070 [info]: timer tick
+2023-03-29 20:41:21.898055 [info]: timer tick
+2023-03-29 20:41:26.898221 [info]: timer tick
+2023-03-29 20:41:31.898767 [info]: timer tick
+2023-03-29 20:41:36.899351 [info]: timer tick
+2023-03-29 20:41:41.899716 [info]: timer tick
+2023-03-29 20:41:46.899991 [info]: timer tick
+2023-03-29 20:41:51.900827 [info]: timer tick
+2023-03-29 20:41:56.901181 [info]: timer tick
+2023-03-29 20:42:01.902292 [info]: timer tick
+2023-03-29 20:42:06.903012 [info]: timer tick
+2023-03-29 20:42:11.903676 [info]: timer tick
+2023-03-29 20:42:16.904293 [info]: timer tick
+2023-03-29 20:42:21.905322 [info]: timer tick
+2023-03-29 20:42:26.905877 [info]: timer tick
+2023-03-29 20:42:31.906230 [info]: timer tick
+2023-03-29 20:42:36.906574 [info]: timer tick
+2023-03-29 20:42:41.906956 [info]: timer tick
+2023-03-29 20:42:46.907219 [info]: timer tick
+2023-03-29 20:42:51.908269 [info]: timer tick
+2023-03-29 20:42:56.908640 [info]: timer tick
+2023-03-29 20:43:01.909005 [info]: timer tick
+2023-03-29 20:43:06.909666 [info]: timer tick
+2023-03-29 20:43:11.910388 [info]: timer tick
+2023-03-29 20:43:16.911075 [info]: timer tick
+2023-03-29 20:43:21.911895 [info]: timer tick
+2023-03-29 20:43:26.912222 [info]: timer tick
+2023-03-29 20:43:31.913257 [info]: timer tick
+2023-03-29 20:43:36.913452 [info]: timer tick
+2023-03-29 20:43:41.913744 [info]: timer tick
+2023-03-29 20:43:46.914239 [info]: timer tick
+2023-03-29 20:43:51.914754 [info]: timer tick
+2023-03-29 20:43:56.915732 [info]: timer tick
+2023-03-29 20:44:01.916482 [info]: timer tick
+2023-03-29 20:44:06.917044 [info]: timer tick
+2023-03-29 20:44:11.917873 [info]: timer tick
+2023-03-29 20:44:12.596239 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:44:12.596541 [info]: adjust timer once
+2023-03-29 20:44:12.597217 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:44:12.597258 [info]: adjust timer once
+2023-03-29 20:44:16.918225 [info]: timer tick
+2023-03-29 20:44:21.918655 [info]: timer tick
+2023-03-29 20:44:26.918994 [info]: timer tick
+2023-03-29 20:44:31.920241 [info]: timer tick
+2023-03-29 20:44:31.921565 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:44:31.921606 [info]: adjust timer once
+2023-03-29 20:44:31.922142 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:44:31.922188 [info]: adjust timer once
+2023-03-29 20:44:36.921135 [info]: timer tick
+2023-03-29 20:44:41.921995 [info]: timer tick
+2023-03-29 20:44:46.922635 [info]: timer tick
+2023-03-29 20:44:47.955773 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:44:47.955858 [info]: adjust timer once
+2023-03-29 20:44:47.955880 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:44:47.955890 [info]: adjust timer once
+2023-03-29 20:44:51.923415 [info]: timer tick
+2023-03-29 20:44:56.923606 [info]: timer tick
+2023-03-29 20:45:01.924319 [info]: timer tick
+2023-03-29 20:45:06.925621 [info]: timer tick
+2023-03-29 20:45:06.927842 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:45:06.927880 [info]: adjust timer once
+2023-03-29 20:45:06.927890 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:45:06.927974 [info]: adjust timer once
+2023-03-29 20:45:11.926239 [info]: timer tick
+2023-03-29 20:45:16.926732 [info]: timer tick
+2023-03-29 20:45:21.927231 [info]: timer tick
+2023-03-29 20:45:26.927800 [info]: timer tick
+2023-03-29 20:45:26.940249 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:45:26.940336 [info]: adjust timer once
+2023-03-29 20:45:26.940810 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:45:26.940845 [info]: adjust timer once
+2023-03-29 20:45:31.928268 [info]: timer tick
+2023-03-29 20:45:36.929023 [info]: timer tick
+2023-03-29 20:45:41.930212 [info]: timer tick
+2023-03-29 20:45:41.931713 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:45:41.931756 [info]: adjust timer once
+2023-03-29 20:45:41.932260 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:45:41.932295 [info]: adjust timer once
+2023-03-29 20:45:46.930447 [info]: timer tick
+2023-03-29 20:45:51.931010 [info]: timer tick
+2023-03-29 20:45:56.932202 [info]: timer tick
+2023-03-29 20:46:01.932844 [info]: timer tick
+2023-03-29 20:46:06.933444 [info]: timer tick
+2023-03-29 20:46:11.934785 [info]: timer tick
+2023-03-29 20:46:16.935643 [info]: timer tick
+2023-03-29 20:46:21.936231 [info]: timer tick
+2023-03-29 20:46:26.936744 [info]: timer tick
+2023-03-29 20:46:26.952531 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:46:26.952619 [info]: adjust timer once
+2023-03-29 20:46:26.953067 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:46:26.953103 [info]: adjust timer once
+2023-03-29 20:46:31.937050 [info]: timer tick
+2023-03-29 20:46:36.938221 [info]: timer tick
+2023-03-29 20:46:41.938874 [info]: timer tick
+2023-03-29 20:46:41.940440 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:46:41.940485 [info]: adjust timer once
+2023-03-29 20:46:41.940940 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:46:41.940978 [info]: adjust timer once
+2023-03-29 20:46:46.939371 [info]: timer tick
+2023-03-29 20:46:51.939703 [info]: timer tick
+2023-03-29 20:46:56.940225 [info]: timer tick
+2023-03-29 20:47:01.940394 [info]: timer tick
+2023-03-29 20:47:06.941575 [info]: timer tick
+2023-03-29 20:47:11.942028 [info]: timer tick
+2023-03-29 20:47:16.942235 [info]: timer tick
+2023-03-29 20:47:21.943139 [info]: timer tick
+2023-03-29 20:47:26.943829 [info]: timer tick
+2023-03-29 20:47:31.944033 [info]: timer tick
+2023-03-29 20:47:36.944986 [info]: timer tick
+2023-03-29 20:47:41.945388 [info]: timer tick
+2023-03-29 20:47:46.945752 [info]: timer tick
+2023-03-29 20:47:51.946706 [info]: timer tick
+2023-03-29 20:47:56.947107 [info]: timer tick
+2023-03-29 20:47:56.962020 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:47:56.962132 [info]: adjust timer once
+2023-03-29 20:47:56.962650 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:47:56.962695 [info]: adjust timer once
+2023-03-29 20:48:01.947407 [info]: timer tick
+2023-03-29 20:48:06.947663 [info]: timer tick
+2023-03-29 20:48:11.948941 [info]: timer tick
+2023-03-29 20:48:11.950140 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:48:11.950181 [info]: adjust timer once
+2023-03-29 20:48:11.950620 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:48:11.950745 [info]: adjust timer once
+2023-03-29 20:48:16.949167 [info]: timer tick
+2023-03-29 20:48:21.949915 [info]: timer tick
+2023-03-29 20:48:26.951125 [info]: timer tick
+2023-03-29 20:48:31.951581 [info]: timer tick
+2023-03-29 20:48:36.952614 [info]: timer tick
+2023-03-29 20:48:41.952908 [info]: timer tick
+2023-03-29 20:48:46.953528 [info]: timer tick
+2023-03-29 20:48:51.954267 [info]: timer tick
+2023-03-29 20:48:56.955226 [info]: timer tick
+2023-03-29 20:49:01.956007 [info]: timer tick
+2023-03-29 20:49:06.956719 [info]: timer tick
+2023-03-29 20:49:11.957273 [info]: timer tick
+2023-03-29 20:49:16.957867 [info]: timer tick
+2023-03-29 20:49:21.958871 [info]: timer tick
+2023-03-29 20:49:26.959304 [info]: timer tick
+2023-03-29 20:49:31.959638 [info]: timer tick
+2023-03-29 20:49:36.960035 [info]: timer tick
+2023-03-29 20:49:41.960604 [info]: timer tick
+2023-03-29 20:49:46.960839 [info]: timer tick
+2023-03-29 20:49:51.961374 [info]: timer tick
+2023-03-29 20:49:56.962037 [info]: timer tick
+2023-03-29 20:50:01.963007 [info]: timer tick
+2023-03-29 20:50:06.963105 [info]: timer tick
+2023-03-29 20:50:11.963415 [info]: timer tick
+2023-03-29 20:50:16.963774 [info]: timer tick
+2023-03-29 20:50:21.964500 [info]: timer tick
+2023-03-29 20:50:26.964643 [info]: timer tick
+2023-03-29 20:50:31.965277 [info]: timer tick
+2023-03-29 20:50:36.966386 [info]: timer tick
+2023-03-29 20:50:41.967539 [info]: timer tick
+2023-03-29 20:50:44.373165 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:50:44.373244 [info]: adjust timer once
+2023-03-29 20:50:44.374950 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:50:44.375013 [info]: adjust timer once
+2023-03-29 20:50:46.968031 [info]: timer tick
+2023-03-29 20:50:51.968971 [info]: timer tick
+2023-03-29 20:50:56.969340 [info]: timer tick
+2023-03-29 20:51:01.969683 [info]: timer tick
+2023-03-29 20:51:01.971466 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:51:01.971536 [info]: adjust timer once
+2023-03-29 20:51:01.971552 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:51:01.971584 [info]: adjust timer once
+2023-03-29 20:51:06.970054 [info]: timer tick
+2023-03-29 20:51:11.970196 [info]: timer tick
+2023-03-29 20:51:16.971024 [info]: timer tick
+2023-03-29 20:51:17.991896 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:51:17.992000 [info]: adjust timer once
+2023-03-29 20:51:17.992843 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:51:17.992893 [info]: adjust timer once
+2023-03-29 20:51:21.971382 [info]: timer tick
+2023-03-29 20:51:26.971897 [info]: timer tick
+2023-03-29 20:51:31.973010 [info]: timer tick
+2023-03-29 20:51:36.973483 [info]: timer tick
+2023-03-29 20:51:36.975771 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:51:36.975815 [info]: adjust timer once
+2023-03-29 20:51:36.975832 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:51:36.975844 [info]: adjust timer once
+2023-03-29 20:51:41.973946 [info]: timer tick
+2023-03-29 20:51:46.974284 [info]: timer tick
+2023-03-29 20:51:51.975048 [info]: timer tick
+2023-03-29 20:51:56.975436 [info]: timer tick
+2023-03-29 20:51:56.994688 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:51:56.994761 [info]: adjust timer once
+2023-03-29 20:51:56.995162 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:51:56.995200 [info]: adjust timer once
+2023-03-29 20:52:01.975932 [info]: timer tick
+2023-03-29 20:52:06.976285 [info]: timer tick
+2023-03-29 20:52:11.977059 [info]: timer tick
+2023-03-29 20:52:11.978140 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:52:11.978190 [info]: adjust timer once
+2023-03-29 20:52:11.978488 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:52:11.978517 [info]: adjust timer once
+2023-03-29 20:52:16.977876 [info]: timer tick
+2023-03-29 20:52:21.978135 [info]: timer tick
+2023-03-29 20:52:26.978633 [info]: timer tick
+2023-03-29 20:52:31.979647 [info]: timer tick
+2023-03-29 20:52:36.980240 [info]: timer tick
+2023-03-29 20:52:41.980512 [info]: timer tick
+2023-03-29 20:52:46.981010 [info]: timer tick
+2023-03-29 20:52:51.981645 [info]: timer tick
+2023-03-29 20:52:56.981996 [info]: timer tick
+2023-03-29 20:52:56.992502 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:52:56.992583 [info]: adjust timer once
+2023-03-29 20:52:56.992601 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:52:56.992634 [info]: adjust timer once
+2023-03-29 20:53:01.982643 [info]: timer tick
+2023-03-29 20:53:06.983318 [info]: timer tick
+2023-03-29 20:53:11.984386 [info]: timer tick
+2023-03-29 20:53:11.985783 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:53:11.985840 [info]: adjust timer once
+2023-03-29 20:53:11.986249 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:53:11.986284 [info]: adjust timer once
+2023-03-29 20:53:16.985264 [info]: timer tick
+2023-03-29 20:53:18.188028 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:53:18.188100 [info]: adjust timer once
+2023-03-29 20:53:18.188154 [info]: GET /fans.html HTTP/1.1
+2023-03-29 20:53:18.188179 [info]: Host: 192.168.44.130:9006
+2023-03-29 20:53:18.188188 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+2023-03-29 20:53:18.188245 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+2023-03-29 20:53:18.188253 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-29 20:53:18.188256 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-29 20:53:18.188259 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-03-29 20:53:18.188262 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-03-29 20:53:18.188266 [info]: Accept-Encoding: gzip, deflate
+2023-03-29 20:53:18.188272 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2023-03-29 20:53:18.188278 [info]: Connection: keep-alive
+2023-03-29 20:53:18.188282 [info]: Upgrade-Insecure-Requests: 1
+2023-03-29 20:53:18.188285 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2023-03-29 20:53:18.188288 [info]: 
+2023-03-29 20:53:18.188308 [info]: request:HTTP/1.1 200 OK
+
+2023-03-29 20:53:18.188318 [info]: request:HTTP/1.1 200 OK
+Content-Length:392
+
+2023-03-29 20:53:18.188321 [info]: request:HTTP/1.1 200 OK
+Content-Length:392
+Connection:keep-alive
+
+2023-03-29 20:53:18.188324 [info]: request:HTTP/1.1 200 OK
+Content-Length:392
+Connection:keep-alive
+
+
+2023-03-29 20:53:18.188554 [info]: send data to the client(192.168.44.1)
+2023-03-29 20:53:18.188583 [info]: adjust timer once
+2023-03-29 20:53:18.220025 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:53:18.220112 [info]: GET /test1.jpg HTTP/1.1
+2023-03-29 20:53:18.220137 [info]: Host: 192.168.44.130:9006
+2023-03-29 20:53:18.220146 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+2023-03-29 20:53:18.220154 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+2023-03-29 20:53:18.220161 [info]: Accept: image/avif,image/webp,*/*
+2023-03-29 20:53:18.220166 [info]: oop!unknow header: Accept: image/avif,image/webp,*/*
+2023-03-29 20:53:18.220171 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-03-29 20:53:18.220176 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-03-29 20:53:18.220180 [info]: Accept-Encoding: gzip, deflate
+2023-03-29 20:53:18.220184 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2023-03-29 20:53:18.220188 [info]: Connection: keep-alive
+2023-03-29 20:53:18.220193 [info]: Referer: http://192.168.44.130:9006/fans.html
+2023-03-29 20:53:18.220198 [info]: oop!unknow header: Referer: http://192.168.44.130:9006/fans.html
+2023-03-29 20:53:18.220203 [info]: 
+2023-03-29 20:53:18.220237 [info]: request:HTTP/1.1 200 OK
+
+2023-03-29 20:53:18.220254 [info]: request:HTTP/1.1 200 OK
+Content-Length:78443
+
+2023-03-29 20:53:18.220260 [info]: request:HTTP/1.1 200 OK
+Content-Length:78443
+Connection:keep-alive
+
+2023-03-29 20:53:18.220265 [info]: request:HTTP/1.1 200 OK
+Content-Length:78443
+Connection:keep-alive
+
+
+2023-03-29 20:53:18.220278 [info]: adjust timer once
+2023-03-29 20:53:18.221535 [info]: send data to the client(192.168.44.1)
+2023-03-29 20:53:18.221589 [info]: adjust timer once
+2023-03-29 20:53:18.254060 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:53:18.254177 [info]: GET /favicon.ico HTTP/1.1
+2023-03-29 20:53:18.254195 [info]: Host: 192.168.44.130:9006
+2023-03-29 20:53:18.254201 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+2023-03-29 20:53:18.254206 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+2023-03-29 20:53:18.254211 [info]: Accept: image/avif,image/webp,*/*
+2023-03-29 20:53:18.254215 [info]: oop!unknow header: Accept: image/avif,image/webp,*/*
+2023-03-29 20:53:18.254220 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-03-29 20:53:18.254254 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-03-29 20:53:18.254261 [info]: Accept-Encoding: gzip, deflate
+2023-03-29 20:53:18.254266 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2023-03-29 20:53:18.254272 [info]: Connection: keep-alive
+2023-03-29 20:53:18.254277 [info]: Referer: http://192.168.44.130:9006/fans.html
+2023-03-29 20:53:18.254282 [info]: oop!unknow header: Referer: http://192.168.44.130:9006/fans.html
+2023-03-29 20:53:18.254287 [info]: 
+2023-03-29 20:53:18.254331 [info]: request:HTTP/1.1 200 OK
+
+2023-03-29 20:53:18.254373 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2023-03-29 20:53:18.254385 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2023-03-29 20:53:18.254391 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2023-03-29 20:53:18.254404 [info]: adjust timer once
+2023-03-29 20:53:18.254888 [info]: send data to the client(192.168.44.1)
+2023-03-29 20:53:18.254931 [info]: adjust timer once
+2023-03-29 20:53:21.986046 [info]: timer tick
+2023-03-29 20:53:26.986710 [info]: timer tick
+2023-03-29 20:53:31.987380 [info]: timer tick
+2023-03-29 20:53:36.988162 [info]: timer tick
+2023-03-29 20:53:41.989208 [info]: timer tick
+2023-03-29 20:53:46.990295 [info]: timer tick
+2023-03-29 20:53:51.990922 [info]: timer tick
+2023-03-29 20:53:54.819492 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:53:54.819563 [info]: adjust timer once
+2023-03-29 20:53:54.819630 [info]: GET / HTTP/1.1
+2023-03-29 20:53:54.819653 [info]: Host: 192.168.44.130:9006
+2023-03-29 20:53:54.819660 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+2023-03-29 20:53:54.819664 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+2023-03-29 20:53:54.819667 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-29 20:53:54.819671 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-29 20:53:54.819674 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-03-29 20:53:54.819677 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-03-29 20:53:54.819680 [info]: Accept-Encoding: gzip, deflate
+2023-03-29 20:53:54.819684 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2023-03-29 20:53:54.819687 [info]: Connection: keep-alive
+2023-03-29 20:53:54.819690 [info]: Upgrade-Insecure-Requests: 1
+2023-03-29 20:53:54.819693 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2023-03-29 20:53:54.819696 [info]: 
+2023-03-29 20:53:54.819715 [info]: request:HTTP/1.1 200 OK
+
+2023-03-29 20:53:54.819732 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2023-03-29 20:53:54.819739 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+2023-03-29 20:53:54.819757 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+
+2023-03-29 20:53:54.819991 [info]: send data to the client(192.168.44.1)
+2023-03-29 20:53:54.820023 [info]: adjust timer once
+2023-03-29 20:53:56.991966 [info]: timer tick
+2023-03-29 20:53:57.120728 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:53:57.120824 [info]: POST /0 HTTP/1.1
+2023-03-29 20:53:57.120836 [info]: Host: 192.168.44.130:9006
+2023-03-29 20:53:57.120842 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+2023-03-29 20:53:57.120847 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+2023-03-29 20:53:57.120852 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-29 20:53:57.120858 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-29 20:53:57.120905 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-03-29 20:53:57.120912 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-03-29 20:53:57.120916 [info]: Accept-Encoding: gzip, deflate
+2023-03-29 20:53:57.120920 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2023-03-29 20:53:57.120924 [info]: Content-Type: application/x-www-form-urlencoded
+2023-03-29 20:53:57.120927 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2023-03-29 20:53:57.120931 [info]: Content-Length: 0
+2023-03-29 20:53:57.120935 [info]: Origin: http://192.168.44.130:9006
+2023-03-29 20:53:57.120938 [info]: oop!unknow header: Origin: http://192.168.44.130:9006
+2023-03-29 20:53:57.120943 [info]: Connection: keep-alive
+2023-03-29 20:53:57.120950 [info]: Referer: http://192.168.44.130:9006/
+2023-03-29 20:53:57.120957 [info]: oop!unknow header: Referer: http://192.168.44.130:9006/
+2023-03-29 20:53:57.120961 [info]: Upgrade-Insecure-Requests: 1
+2023-03-29 20:53:57.120964 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2023-03-29 20:53:57.120968 [info]: 
+2023-03-29 20:53:57.120994 [info]: request:HTTP/1.1 200 OK
+
+2023-03-29 20:53:57.121006 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+
+2023-03-29 20:53:57.121010 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+Connection:keep-alive
+
+2023-03-29 20:53:57.121013 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+Connection:keep-alive
+
+
+2023-03-29 20:53:57.121024 [info]: adjust timer once
+2023-03-29 20:53:57.121530 [info]: send data to the client(192.168.44.1)
+2023-03-29 20:53:57.121562 [info]: adjust timer once
+2023-03-29 20:54:01.992234 [info]: timer tick
+2023-03-29 20:54:06.690683 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:54:06.690761 [info]: adjust timer once
+2023-03-29 20:54:06.690820 [info]: POST /3CGISQL.cgi HTTP/1.1
+2023-03-29 20:54:06.690838 [info]: Host: 192.168.44.130:9006
+2023-03-29 20:54:06.690845 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+2023-03-29 20:54:06.690851 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+2023-03-29 20:54:06.690857 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-29 20:54:06.690863 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-29 20:54:06.690869 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-03-29 20:54:06.690875 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-03-29 20:54:06.690880 [info]: Accept-Encoding: gzip, deflate
+2023-03-29 20:54:06.690886 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2023-03-29 20:54:06.690892 [info]: Content-Type: application/x-www-form-urlencoded
+2023-03-29 20:54:06.690897 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2023-03-29 20:54:06.690903 [info]: Content-Length: 24
+2023-03-29 20:54:06.690908 [info]: Origin: http://192.168.44.130:9006
+2023-03-29 20:54:06.690914 [info]: oop!unknow header: Origin: http://192.168.44.130:9006
+2023-03-29 20:54:06.690920 [info]: Connection: keep-alive
+2023-03-29 20:54:06.690926 [info]: Referer: http://192.168.44.130:9006/0
+2023-03-29 20:54:06.690931 [info]: oop!unknow header: Referer: http://192.168.44.130:9006/0
+2023-03-29 20:54:06.690937 [info]: Upgrade-Insecure-Requests: 1
+2023-03-29 20:54:06.690943 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2023-03-29 20:54:06.690948 [info]: 
+2023-03-29 20:54:06.690954 [info]: user=yupeng&password=666
+2023-03-29 20:54:06.693867 [info]: request:HTTP/1.1 200 OK
+
+2023-03-29 20:54:06.693940 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+
+2023-03-29 20:54:06.693951 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+2023-03-29 20:54:06.693988 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+
+2023-03-29 20:54:06.696408 [info]: send data to the client(192.168.44.1)
+2023-03-29 20:54:06.696448 [info]: adjust timer once
+2023-03-29 20:54:06.993026 [info]: timer tick
+2023-03-29 20:54:11.993970 [info]: timer tick
+2023-03-29 20:54:14.381687 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:54:14.381771 [info]: adjust timer once
+2023-03-29 20:54:14.381863 [info]: POST /2CGISQL.cgi HTTP/1.1
+2023-03-29 20:54:14.381889 [info]: Host: 192.168.44.130:9006
+2023-03-29 20:54:14.381902 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+2023-03-29 20:54:14.381910 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+2023-03-29 20:54:14.381915 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-29 20:54:14.381920 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-29 20:54:14.381925 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-03-29 20:54:14.381930 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-03-29 20:54:14.381935 [info]: Accept-Encoding: gzip, deflate
+2023-03-29 20:54:14.381939 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2023-03-29 20:54:14.381944 [info]: Content-Type: application/x-www-form-urlencoded
+2023-03-29 20:54:14.381949 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2023-03-29 20:54:14.381953 [info]: Content-Length: 24
+2023-03-29 20:54:14.381958 [info]: Origin: http://192.168.44.130:9006
+2023-03-29 20:54:14.381963 [info]: oop!unknow header: Origin: http://192.168.44.130:9006
+2023-03-29 20:54:14.381967 [info]: Connection: keep-alive
+2023-03-29 20:54:14.381972 [info]: Referer: http://192.168.44.130:9006/3CGISQL.cgi
+2023-03-29 20:54:14.381976 [info]: oop!unknow header: Referer: http://192.168.44.130:9006/3CGISQL.cgi
+2023-03-29 20:54:14.381981 [info]: Upgrade-Insecure-Requests: 1
+2023-03-29 20:54:14.381985 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2023-03-29 20:54:14.381989 [info]: 
+2023-03-29 20:54:14.381994 [info]: user=yupeng&password=666
+2023-03-29 20:54:14.382029 [info]: request:HTTP/1.1 200 OK
+
+2023-03-29 20:54:14.382045 [info]: request:HTTP/1.1 200 OK
+Content-Length:723
+
+2023-03-29 20:54:14.382050 [info]: request:HTTP/1.1 200 OK
+Content-Length:723
+Connection:keep-alive
+
+2023-03-29 20:54:14.382055 [info]: request:HTTP/1.1 200 OK
+Content-Length:723
+Connection:keep-alive
+
+
+2023-03-29 20:54:14.383405 [info]: send data to the client(192.168.44.1)
+2023-03-29 20:54:14.383442 [info]: adjust timer once
+2023-03-29 20:54:16.994409 [info]: timer tick
+2023-03-29 20:54:17.363480 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:54:17.363570 [info]: adjust timer once
+2023-03-29 20:54:17.363633 [info]: POST /5 HTTP/1.1
+2023-03-29 20:54:17.363657 [info]: Host: 192.168.44.130:9006
+2023-03-29 20:54:17.363664 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+2023-03-29 20:54:17.363669 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+2023-03-29 20:54:17.363675 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-29 20:54:17.363679 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-29 20:54:17.363684 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-03-29 20:54:17.363689 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-03-29 20:54:17.363693 [info]: Accept-Encoding: gzip, deflate
+2023-03-29 20:54:17.363709 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2023-03-29 20:54:17.363714 [info]: Content-Type: application/x-www-form-urlencoded
+2023-03-29 20:54:17.363718 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2023-03-29 20:54:17.363723 [info]: Content-Length: 0
+2023-03-29 20:54:17.363728 [info]: Origin: http://192.168.44.130:9006
+2023-03-29 20:54:17.363732 [info]: oop!unknow header: Origin: http://192.168.44.130:9006
+2023-03-29 20:54:17.363736 [info]: Connection: keep-alive
+2023-03-29 20:54:17.363741 [info]: Referer: http://192.168.44.130:9006/2CGISQL.cgi
+2023-03-29 20:54:17.363745 [info]: oop!unknow header: Referer: http://192.168.44.130:9006/2CGISQL.cgi
+2023-03-29 20:54:17.363749 [info]: Upgrade-Insecure-Requests: 1
+2023-03-29 20:54:17.363753 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2023-03-29 20:54:17.363757 [info]: 
+2023-03-29 20:54:17.363820 [info]: request:HTTP/1.1 200 OK
+
+2023-03-29 20:54:17.363834 [info]: request:HTTP/1.1 200 OK
+Content-Length:360
+
+2023-03-29 20:54:17.363851 [info]: request:HTTP/1.1 200 OK
+Content-Length:360
+Connection:keep-alive
+
+2023-03-29 20:54:17.363857 [info]: request:HTTP/1.1 200 OK
+Content-Length:360
+Connection:keep-alive
+
+
+2023-03-29 20:54:17.365211 [info]: send data to the client(192.168.44.1)
+2023-03-29 20:54:17.365244 [info]: adjust timer once
+2023-03-29 20:54:17.388122 [info]: deal with the client(192.168.44.1)
+2023-03-29 20:54:17.388270 [info]: adjust timer once
+2023-03-29 20:54:17.388406 [info]: GET /xxx.jpg HTTP/1.1
+2023-03-29 20:54:17.388424 [info]: Host: 192.168.44.130:9006
+2023-03-29 20:54:17.388431 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+2023-03-29 20:54:17.388435 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+2023-03-29 20:54:17.388439 [info]: Accept: image/avif,image/webp,*/*
+2023-03-29 20:54:17.388443 [info]: oop!unknow header: Accept: image/avif,image/webp,*/*
+2023-03-29 20:54:17.388447 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-03-29 20:54:17.388451 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-03-29 20:54:17.388455 [info]: Accept-Encoding: gzip, deflate
+2023-03-29 20:54:17.388458 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2023-03-29 20:54:17.388462 [info]: Connection: keep-alive
+2023-03-29 20:54:17.388465 [info]: Referer: http://192.168.44.130:9006/5
+2023-03-29 20:54:17.388469 [info]: oop!unknow header: Referer: http://192.168.44.130:9006/5
+2023-03-29 20:54:17.388472 [info]: 
+2023-03-29 20:54:17.388497 [info]: request:HTTP/1.1 200 OK
+
+2023-03-29 20:54:17.388502 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+
+2023-03-29 20:54:17.388506 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+Connection:keep-alive
+
+2023-03-29 20:54:17.388510 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+Connection:keep-alive
+
+
+2023-03-29 20:54:17.393954 [info]: send data to the client(192.168.44.1)
+2023-03-29 20:54:17.394097 [info]: adjust timer once
+2023-03-29 20:54:17.396747 [info]: send data to the client(192.168.44.1)
+2023-03-29 20:54:17.396806 [info]: adjust timer once
+2023-03-29 20:54:17.402214 [info]: send data to the client(192.168.44.1)
+2023-03-29 20:54:17.402270 [info]: adjust timer once
+2023-03-29 20:54:17.406619 [info]: send data to the client(192.168.44.1)
+2023-03-29 20:54:17.406667 [info]: adjust timer once
+2023-03-29 20:54:17.410406 [info]: send data to the client(192.168.44.1)
+2023-03-29 20:54:17.411117 [info]: adjust timer once
+2023-03-29 20:54:17.417551 [info]: send data to the client(192.168.44.1)
+2023-03-29 20:54:17.417622 [info]: adjust timer once
+2023-03-29 20:54:17.424429 [info]: send data to the client(192.168.44.1)
+2023-03-29 20:54:17.424597 [info]: adjust timer once
+2023-03-29 20:54:17.455416 [info]: send data to the client(192.168.44.1)
+2023-03-29 20:54:17.455500 [info]: adjust timer once
+2023-03-29 20:54:17.464026 [info]: send data to the client(192.168.44.1)
+2023-03-29 20:54:17.464139 [info]: adjust timer once
+2023-03-29 20:54:21.994860 [info]: timer tick
+2023-03-29 20:54:23.393186 [info]: close fd 16
+2023-03-29 20:54:26.995358 [info]: timer tick
+2023-03-29 20:54:31.995765 [info]: timer tick
+2023-03-29 20:54:36.996152 [info]: timer tick
+2023-03-29 20:54:41.996831 [info]: timer tick
+2023-03-29 20:54:46.997406 [info]: timer tick
+2023-03-29 20:54:51.998021 [info]: timer tick
+2023-03-29 20:54:56.998461 [info]: timer tick
+2023-03-29 20:55:01.998854 [info]: timer tick
+2023-03-29 20:55:06.999998 [info]: timer tick
+2023-03-29 20:55:12.000195 [info]: timer tick
+2023-03-29 20:55:17.000535 [info]: timer tick
+2023-03-29 20:55:22.000810 [info]: timer tick
+2023-03-29 20:55:27.001300 [info]: timer tick
