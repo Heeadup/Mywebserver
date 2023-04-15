@@ -92,37 +92,45 @@ bool threadpool<T>::append_p(T *request)
 {
     std::cout<<"append_p m_queuelocker.lock();"<<endl;
     m_queuelocker.lock();
+    //根据硬件设置请求队列的最大值
     if (m_workqueue.size() >= m_max_requests)
     {
         m_queuelocker.unlock();
         return false;
     }
+    //添加任务
     m_workqueue.push_back(request);
     m_queuelocker.unlock();
+    //信号量提示有任务要处理
     m_queuestat.post();
     return true;
 }
+//内部访问私有成员函数run，完成线程处理要求。
 template <typename T>
 void *threadpool<T>::worker(void *arg)
 {
-    threadpool *pool = (threadpool *)arg; //处理线程函数的指针
+    threadpool *pool = (threadpool *)arg; //处理线程函数的指针，将参数强转为线程池类，调用成员方法
     pool->run();
     return pool;
 }
-//处理线程的函数，注掉还行
+//处理线程的函数，工作线程从请求队列中取出某个任务进行处理，注意线程同步
 template <typename T>
 void threadpool<T>::run()
 {
     while (true)
     {
+        //信号量等待
         m_queuestat.wait();
+        //唤醒后先加互斥锁
         m_queuelocker.lock();
         if (m_workqueue.empty())
         {
             m_queuelocker.unlock();
             continue;
         }
+        /*从请求队列取出头部的任务,这里是http类的方法*/
         T *request = m_workqueue.front();
+        /*从请求队列中删除任务*/
         m_workqueue.pop_front();
         m_queuelocker.unlock();
         if (!request)
@@ -133,6 +141,7 @@ void threadpool<T>::run()
             {
                 if (request->read_once())
                 {
+                    //process(模板类中的方法,这里是http类)进行处理
                     request->improv = 1;
                     connectionRAII mysqlcon(&request->mysql, m_connPool);
                     request->process();
